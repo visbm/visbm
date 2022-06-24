@@ -10,7 +10,7 @@
 👨‍💻 About me
 - 👋 Hi, I’m Nick @visbm .
 - 👨‍🎓 I’m a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
-- 👀 I’m interested in cars, movies, fashion , IT .
+- 👀 I’m interested in cars, movies , IT .
 - 🌱 I’m currently learning GOlang.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-samohvalovnikita-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samohvalovnikita)

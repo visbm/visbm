@@ -1,6 +1,6 @@
 
 <div id="header" align="center">  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
 👨‍💻 About me
@@ -32,6 +32,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://komarev.com/ghpvc/?username=visbm&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="0.1px"/>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"/>
 </h1>

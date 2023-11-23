@@ -13,7 +13,7 @@
 - 👀 I’m interested in cars, movies , IT .
 - 🌱 I’m currently learning GOlang.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-samohvalovnikita-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikitasamakhvalau)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-mikitasamakhvalau-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikitasamakhvalau)
 ### :hammer_and_wrench: Languages and Tools :
 <div id="header" align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="100"/>
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/samohvalovnikita">
+  <a href="https://www.linkedin.com/in/mikitasamakhvalau">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
 </div>

@@ -13,7 +13,7 @@
 - 👀 I’m interested in cars, movies , IT .
 - 🌱 I’m currently learning GOlang.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-samohvalovnikita-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samohvalovnikita)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-samohvalovnikita-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikitasamakhvalau)
 ### :hammer_and_wrench: Languages and Tools :
 <div id="header" align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="100"/>
